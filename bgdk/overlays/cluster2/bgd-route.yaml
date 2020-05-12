@@ -1,3 +1,3 @@
 - op: replace
   path: /spec/host
-  value: "bgd.apps.cluster2.ocp.redhatworkshops.io"
+  value: "bgd.apps.cluster-dtw-7de3.dtw-7de3.example.opentlc.com"

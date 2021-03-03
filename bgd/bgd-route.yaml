@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd-bgd.apps.ocp.openshift.cool"
+  host: "bgd-bgd.apps.ocp4.ralvares.com"
   port:
     targetPort: 8080
   to:
